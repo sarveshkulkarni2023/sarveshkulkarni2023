@@ -4,7 +4,7 @@ Passionate about creating innovative solutions using Data Science and Machine Le
 Love working on projects that combine technology and real-world problems 💡.
 Always exploring new ideas and constantly learning 🔍.
 🏆 Some of My Projects:
-<a href="#"><img align="left" width="300" height="200" src="https://via.placeholder.com/300x200.png?text=Movie+Genre+Classification" /></a> <a href="#"><img align="left" width="300" height="200" src="https://via.placeholder.com/300x200.png?text=Spam+SMS+Detection" /></a> <a href="#"><img align="left" width="300" height="200" src="https://via.placeholder.com/300x200.png?text=Credit+Card+Fraud+Detection" /></a>
+<a href="https://github.com/sarveshkulkarni2023/Movie-Genre-Classification"><img align="left" width="300" height="200" src="https://via.placeholder.com/300x200.png?text=Movie+Genre+Classification" /></a> <a href="https://github.com/sarveshkulkarni2023/Spam-SMS-Detection"><img align="left" width="300" height="200" src="https://via.placeholder.com/300x200.png?text=Spam+SMS+Detection" /></a> <a href="https://github.com/sarveshkulkarni2023/Credit-Card-Fraud-Detection"><img align="left" width="300" height="200" src="https://via.placeholder.com/300x200.png?text=Credit+Card+Fraud+Detection" /></a>
 
 🧑‍💻 Tech Stack
 Languages: Python, Java, JavaScript
